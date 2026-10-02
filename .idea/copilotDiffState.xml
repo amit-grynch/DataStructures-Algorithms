@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/AlgorithmsExplorer/AlgorithmsExplorer.iml">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/AlgorithmsExplorer/AlgorithmsExplorer.iml" />
+              <option name="newFile" value="true" />
+              <option name="updatedContent" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;module type=&quot;JAVA_MODULE&quot; version=&quot;4&quot;&gt;&#10;  &lt;component name=&quot;NewModuleRootManager&quot; inherit-compiler-output=&quot;true&quot;&gt;&#10;    &lt;exclude-output /&gt;&#10;    &lt;content url=&quot;file://$MODULE_DIR$&quot;&gt;&#10;      &lt;sourceFolder url=&quot;file://$MODULE_DIR$&quot; isTestSource=&quot;false&quot; /&gt;&#10;    &lt;/content&gt;&#10;    &lt;orderEntry type=&quot;inheritedJdk&quot; /&gt;&#10;    &lt;orderEntry type=&quot;sourceFolder&quot; forTests=&quot;false&quot; /&gt;&#10;  &lt;/component&gt;&#10;&lt;/module&gt;&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/DataStructureExplorer/DataStructureExplorer.iml">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/DataStructureExplorer/DataStructureExplorer.iml" />
+              <option name="newFile" value="true" />
+              <option name="updatedContent" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;module type=&quot;JAVA_MODULE&quot; version=&quot;4&quot;&gt;&#10;  &lt;component name=&quot;NewModuleRootManager&quot; inherit-compiler-output=&quot;true&quot;&gt;&#10;    &lt;exclude-output /&gt;&#10;    &lt;content url=&quot;file://$MODULE_DIR$&quot;&gt;&#10;      &lt;sourceFolder url=&quot;file://$MODULE_DIR$/src&quot; isTestSource=&quot;false&quot; /&gt;&#10;    &lt;/content&gt;&#10;    &lt;orderEntry type=&quot;inheritedJdk&quot; /&gt;&#10;    &lt;orderEntry type=&quot;sourceFolder&quot; forTests=&quot;false&quot; /&gt;&#10;  &lt;/component&gt;&#10;&lt;/module&gt;&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
